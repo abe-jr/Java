@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf645672-9c9f-4a4a-9d44-2918b3169254" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="newproject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wt1c1O6Mk9nfFdpXqQIML5hegr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="br.com.mytest" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Views.MainApp" />
+      <module name="newproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Views.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf645672-9c9f-4a4a-9d44-2918b3169254" name="Default Changelist" comment="" />
+      <created>1579954152316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579954152316</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="100" key="#Project_Structure" timestamp="1579970672466">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="320" y="100" key="#Project_Structure/0.23.1440.824@0.23.1440.824" timestamp="1579970672466" />
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1580050124297">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/0.23.1440.824@0.23.1440.824" timestamp="1580050124297" />
+    <state x="443" y="131" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1579980726808">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="443" y="131" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.824@0.23.1440.824" timestamp="1579980726808" />
+    <state x="272" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580058605749">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="272" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.824@0.23.1440.824" timestamp="1580058605749" />
+    <state width="1398" height="417" key="GridCell.Tab.0.bottom" timestamp="1580071384295">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="417" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1580071384295" />
+    <state width="1398" height="417" key="GridCell.Tab.0.center" timestamp="1580071384294">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="417" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1580071384294" />
+    <state width="1398" height="417" key="GridCell.Tab.0.left" timestamp="1580071384293">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="417" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1580071384293" />
+    <state width="1398" height="417" key="GridCell.Tab.0.right" timestamp="1580071384295">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="417" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1580071384295" />
+    <state width="1398" height="264" key="GridCell.Tab.1.bottom" timestamp="1580069584284">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.bottom/0.23.1440.824@0.23.1440.824" timestamp="1580069584284" />
+    <state width="1398" height="264" key="GridCell.Tab.1.center" timestamp="1580069584283">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.center/0.23.1440.824@0.23.1440.824" timestamp="1580069584283" />
+    <state width="1398" height="264" key="GridCell.Tab.1.left" timestamp="1580069584283">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.left/0.23.1440.824@0.23.1440.824" timestamp="1580069584283" />
+    <state width="1398" height="264" key="GridCell.Tab.1.right" timestamp="1580069584283">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.right/0.23.1440.824@0.23.1440.824" timestamp="1580069584283" />
+    <state x="258" y="97" key="Maven.ArtifactSearchDialog" timestamp="1579968970077">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="258" y="97" key="Maven.ArtifactSearchDialog/0.23.1440.824@0.23.1440.824" timestamp="1579968970077" />
+    <state x="221" y="23" width="1024" height="824" key="SettingsEditor" timestamp="1580048596226">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="221" y="23" width="1024" height="824" key="SettingsEditor/0.23.1440.824@0.23.1440.824" timestamp="1580048596226" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1579982028615">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.824@0.23.1440.824" timestamp="1579982028615" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/br_com_mytest$MainApp.ic" NAME="MainApp Coverage Results" MODIFIED="1580055239691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Views.*</FILTER>
+    </SUITE>
+  </component>
+</project>
